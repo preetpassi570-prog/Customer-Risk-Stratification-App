@@ -1,5 +1,9 @@
 # 🛡️ Customer Risk Stratification App
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://customer-risk-dashboard.streamlit.app)
+
+Machine Learning based customer risk prediction dashboard built with Python, Streamlit, Scikit-learn, Pandas and Plotly.
+
 ## 📌 Project Overview
 
 Customer Risk Stratification App is a Machine Learning web application developed using **Python** and **Streamlit**. The application predicts customer risk levels by analyzing customer and order data and provides interactive dashboards with business insights.
